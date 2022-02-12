@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "duck123", "duck123\duck123.csproj", "{B1B90937-9983-4DD7-A135-0610A6BB9F83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "duck", "duck\duck.csproj", "{0CF8D15C-7536-49D5-B701-85E5FD37338A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1B90937-9983-4DD7-A135-0610A6BB9F83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1B90937-9983-4DD7-A135-0610A6BB9F83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1B90937-9983-4DD7-A135-0610A6BB9F83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1B90937-9983-4DD7-A135-0610A6BB9F83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CF8D15C-7536-49D5-B701-85E5FD37338A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CF8D15C-7536-49D5-B701-85E5FD37338A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CF8D15C-7536-49D5-B701-85E5FD37338A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CF8D15C-7536-49D5-B701-85E5FD37338A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {922C2F17-D2A0-4ABC-A4D7-EA7626C003EE}
+	EndGlobalSection
+EndGlobal
